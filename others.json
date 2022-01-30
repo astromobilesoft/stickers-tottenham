@@ -1,0 +1,18 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.tottenham",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"antonioconte1",
+         "name":"Antonio Conte",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"goal1",
+         "name":"Goal",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}

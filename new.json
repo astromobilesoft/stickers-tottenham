@@ -1,0 +1,66 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.tottenham",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"premier2122m17",
+         "name":"vs Leicester",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"harrykane1",
+         "name":"Harry Kane",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"heungminson1",
+         "name":"Heung-Min Son",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"pierreemilehojbjerg1",
+         "name":"Pierre-Emile Höjbjerg",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+      {
+         "identifier":"facup2122f32",
+         "name":"vs Morecambe",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"goal1",
+         "name":"Goal",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"antonioconte1",
+         "name":"Antonio Conte",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated1",
+         "name":"Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      }
+   ]
+}
