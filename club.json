@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"club2",
+         "name":"Club 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"club1",
-         "name":"Club",
+         "name":"Club 1",
          "animated_sticker_pack":false,
          "stickers":"15"
       }
