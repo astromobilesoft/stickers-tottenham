@@ -51,6 +51,12 @@
          "stickers":"22"
       },
       {
+         "identifier":"happyeaster1",
+         "name":"Happy Easter",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"premier2122m27",
          "name":"vs Leeds",
          "animated_sticker_pack":false,
