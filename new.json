@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"cutiromero1",
+         "name":"Cuti Romero",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"premier2223m8",
          "name":"vs Leicester",
          "animated_sticker_pack":false,
