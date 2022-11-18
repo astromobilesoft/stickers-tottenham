@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022england2",
+         "name":"Qatar 2022 England 1",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022england3",
+         "name":"Qatar 2022 England 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"worldcup2022ericdier",
+         "name":"Eric Dier",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022harrykane",
+         "name":"Harry Kane",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"team2022",
          "name":"Team 2022",
          "animated_sticker_pack":false,
