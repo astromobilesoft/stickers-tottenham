@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m22",
+         "name":"vs Manchester City",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"harrykane2",
+         "name":"Harry Kane Record",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"facup2223f16",
          "name":"vs Preston",
          "animated_sticker_pack":false,
